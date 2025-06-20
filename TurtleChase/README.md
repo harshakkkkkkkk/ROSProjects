@@ -36,12 +36,14 @@ To run this in a ROS 2 environment, you will need to:
 - Build the package using `colcon build`
 - Run the node using `ros2 run`
 
-If you're new to this, refer to the official ROS 2 tutorials:  
-🔗 [Creating a ROS 2 Python Package](https://docs.ros.org/en/humble/Tutorials/Beginner-Client-Libraries/Creating-Your-First-ROS-2-Package.html)
-
 ---
 
 ## 👨‍💻 Author
 
-Developed for learning and demonstration purposes.  
-Feel free to use or modify the script as needed.
+**Name:** Harshak V P
+**LinkedIn:** [linkedin.com/in/harshakvp](https://www.linkedin.com/in/harshakvp/)
+
+This project was developed as a learning exercise in ROS 2 and turtlesim.  
+Feel free to use, modify, and extend it as needed!
+
+---
