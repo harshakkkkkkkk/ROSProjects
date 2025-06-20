@@ -1,4 +1,4 @@
-# 🐢 Thief Turtle Escape Logic – ROS 2 TurtleSim
+# 🐢 Turtle Chase – ROS 2 TurtleSim
 
 This repository contains a **single Python script** that defines the behavior of a "thief turtle" in the ROS 2 `turtlesim` simulation. The turtle dynamically reacts to a "police turtle" by fleeing when it comes too close, while also avoiding the simulation boundaries.
 
