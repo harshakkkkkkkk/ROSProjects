@@ -1,4 +1,4 @@
-# 🐢 Turtle Catcher with ROS 2 – Controller & Spawner Scripts
+# 🐢 Hunt The Turtle – Controller & Spawner Scripts
 
 This project simulates a dynamic game of **turtle chasing** using ROS 2 and the `turtlesim` simulator. A central controller (`turtle1`) is used to **chase and remove spawned turtles** from the simulation.
 
@@ -60,3 +60,16 @@ turtle_name_prefix: "turtle"
 
 # Turtle Controller Node
 catch_closest_turtle: true     # If true, controller will catch the closest turtle
+```
+
+---
+
+## 👨‍💻 Author
+
+**Name:** Harshak V P
+**LinkedIn:** [linkedin.com/in/harshakvp](https://www.linkedin.com/in/harshakvp/)
+
+This project was developed as a learning exercise in ROS 2 and turtlesim.  
+Feel free to use, modify, and extend it as needed!
+
+---
