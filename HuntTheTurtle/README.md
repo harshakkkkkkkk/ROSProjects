@@ -44,9 +44,6 @@ To run the system, you will need to:
 4. Update `setup.py`, `package.xml`, and `CMakeLists.txt` accordingly.
 5. Build the package with `colcon build`.
 
-📚 New to this? Start here:  
-🔗 [Creating a ROS 2 Python Package with Custom Interfaces](https://docs.ros.org/en/humble/Tutorials/Beginner-Client-Libraries/Creating-Your-First-ROS-2-Package.html)
-
 ---
 
 ## 🔧 Example Parameters (Optional)
@@ -66,7 +63,7 @@ catch_closest_turtle: true     # If true, controller will catch the closest turt
 
 ## 👨‍💻 Author
 
-**Name:** Harshak V P
+**Name:** Harshak V P  
 **LinkedIn:** [linkedin.com/in/harshakvp](https://www.linkedin.com/in/harshakvp/)
 
 This project was developed as a learning exercise in ROS 2 and turtlesim.  
