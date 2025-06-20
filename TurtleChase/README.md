@@ -40,7 +40,7 @@ To run this in a ROS 2 environment, you will need to:
 
 ## 👨‍💻 Author
 
-**Name:** Harshak V P 
+**Name:** Harshak V P  
 **LinkedIn:** [linkedin.com/in/harshakvp](https://www.linkedin.com/in/harshakvp/)
 
 This project was developed as a learning exercise in ROS 2 and turtlesim.  
