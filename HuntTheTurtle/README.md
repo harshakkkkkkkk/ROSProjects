@@ -1,4 +1,4 @@
-# 🐢 Hunt The Turtle – Controller & Spawner Scripts
+# 🐢 Hunt The Turtle – ROS 2 TurtleSim
 
 This project simulates a dynamic game of **turtle chasing** using ROS 2 and the `turtlesim` simulator. A central controller (`turtle1`) is used to **chase and remove spawned turtles** from the simulation.
 
