@@ -1,20 +1,20 @@
-# 🐢 Hunt The Turtle – ROS 2 TurtleSim
+# 🔹 Hunt The Turtle – ROS 2 TurtleSim
 
 This project simulates a dynamic game of **turtle chasing** using ROS 2 and the `turtlesim` simulator. A central controller (`turtle1`) is used to **chase and remove spawned turtles** from the simulation.
 
 ---
 
-## 🧠 Project Logic
+## 🔹 Project Logic
 
 The system involves two main components:
 
-### ✅ Turtle Spawner Node (`TurtleSpawnerNode`)
+### 🔹 Turtle Spawner Node (`TurtleSpawnerNode`)
 - Periodically **spawns turtles** at random positions within the simulator.
 - Each turtle is given a **unique name** using a configurable prefix (`turtle1`, `turtle2`, ...).
 - Maintains and **publishes a list** of all currently alive turtles using a custom `TurtleArray` message.
 - Offers a service `catch_turtle` to **remove a specific turtle** from the simulation (via the `/kill` service).
 
-### ✅ Turtle Controller Node (`TurtleControllerNode`)
+### 🔹 Turtle Controller Node (`TurtleControllerNode`)
 - Subscribes to the `alive_turtles` topic.
 - Tracks the pose of the main turtle (`/turtle1`) and all alive turtles.
 - Depending on a parameter (`catch_closest_turtle`), it either:
@@ -24,7 +24,7 @@ The system involves two main components:
 
 ---
 
-## 📦 What's Included?
+## 🔹 What's Included?
 
 - ✅ `turtle_controller_node.py`  
 - ✅ `turtle_spawner_node.py`  
@@ -46,7 +46,7 @@ To run the system, you will need to:
 
 ---
 
-## 🔧 Example Parameters (Optional)
+## 🔹 Example Parameters (Optional)
 
 You can adjust parameters like spawn frequency or behavior preference:
 
@@ -61,7 +61,7 @@ catch_closest_turtle: true     # If true, controller will catch the closest turt
 
 ---
 
-## 👨‍💻 Author
+## 🔹 Author
 
 **Name:** Harshak V P  
 **LinkedIn:** [linkedin.com/in/harshakvp](https://www.linkedin.com/in/harshakvp/)
