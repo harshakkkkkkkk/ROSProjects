@@ -26,9 +26,9 @@ The system involves two main components:
 
 ## 🔹 What's Included?
 
-- ✅ `turtle_controller_node.py`  
-- ✅ `turtle_spawner_node.py`  
-- ❌ No full ROS 2 package setup (`setup.py`, `package.xml`, etc.)
+-  `turtle_controller_node.py`  
+-  `turtle_spawner_node.py`  
+-  No full ROS 2 package setup (`setup.py`, `package.xml`, etc.)
 
 ---
 
