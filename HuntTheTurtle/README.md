@@ -2,6 +2,10 @@
 
 This project simulates a dynamic game of **turtle chasing** using ROS 2 and the `turtlesim` simulator. A central controller (`turtle1`) is used to **chase and remove spawned turtles** from the simulation.
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/40829d57-f72f-4df8-a7dd-6d96f7fd7e38" width="100%" />
+</p>
+
 ---
 
 ## 🔹 Project Logic
