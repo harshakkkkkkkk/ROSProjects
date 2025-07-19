@@ -1,3 +1,14 @@
+# ROS2 Projects
+This repository contains multiple ROS 2-based robotic applications and packages built using the Robot Operating System. Each project is designed to demonstrate core ROS2 concepts with the help of ```turtlesim```.
+
+---
+
+## List of projects in this repository  
+1. HuntTheTurtle
+2. TurtleChase
+
+---
+
 ## ⚠️ Note to Users
 
 This repository includes the **core source code** for the project (main logic and functionality). It **does not include** full configuration files such as `setup.py`, `package.xml`, `CMakeLists.txt`, or custom message/service definitions.
