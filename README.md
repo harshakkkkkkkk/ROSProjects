@@ -1,4 +1,4 @@
-## ⚠️ Note
+## ⚠️ Note to Users
 
 This repository includes the **core source code** for the project (main logic and functionality). It **does not include** full configuration files such as `setup.py`, `package.xml`, `CMakeLists.txt`, or custom message/service definitions.
 
