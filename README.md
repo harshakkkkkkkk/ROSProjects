@@ -13,3 +13,15 @@ To run this project successfully, you’ll need to:
 - Source your environment:
   ```basg
   source install/setup.bash
+
+---
+
+## 🔹 Author
+
+**Name:** Harshak V P  
+**LinkedIn:** [linkedin.com/in/harshakvp](https://www.linkedin.com/in/harshakvp/)
+
+This project was developed as a learning exercise in ROS 2 and turtlesim.  
+Feel free to use, modify, and extend it as needed!
+
+---
