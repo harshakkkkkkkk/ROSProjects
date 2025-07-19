@@ -1,10 +1,10 @@
-# 🐢 Turtle Chase – ROS 2 TurtleSim
+# 🔹 Turtle Chase – ROS 2 TurtleSim
 
 This repository contains a **single Python script** that defines the behavior of a "thief turtle" in the ROS 2 `turtlesim` simulation. The turtle dynamically reacts to a "police turtle" by fleeing when it comes too close, while also avoiding the simulation boundaries.
 
 ---
 
-## 🧠 Project Logic Explained
+## 🔹 Project Logic Explained
 
 - The **police turtle** is the default turtle in TurtleSim (`/turtle1`).
 - A new turtle named **`thief_turtle`** is spawned at a fixed location using the `/spawn` service.
@@ -18,10 +18,10 @@ This repository contains a **single Python script** that defines the behavior of
 
 ---
 
-## 📁 What's in This Repository?
+## 🔹 What's in This Repository?
 
-✅ `thief_turtle_node.py`  
-❌ No full ROS 2 package setup (no `setup.py`, `package.xml`, or `CMakeLists.txt`)
+- `thief_turtle_node.py`  
+- No full ROS 2 package setup (no `setup.py`, `package.xml`, or `CMakeLists.txt`)
 
 ---
 
@@ -38,7 +38,7 @@ To run this in a ROS 2 environment, you will need to:
 
 ---
 
-## 👨‍💻 Author
+## 🔹 Author
 
 **Name:** Harshak V P  
 **LinkedIn:** [linkedin.com/in/harshakvp](https://www.linkedin.com/in/harshakvp/)
